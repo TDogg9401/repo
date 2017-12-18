@@ -11,3 +11,19 @@ Section: Networking
 Description: lightweight package for SSH functionality
 Name: dropbear
 
+Package: ml.tdogg9401.daemonfixup
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Trevor Schmitt <tdogg9401@gmail.com>
+Installed-Size: 268
+Depends: mobilesubstrate
+Filename: ./debs/ml.tdogg9401.daemonfixup_1.0_iphoneos-arm.deb
+Size: 4314
+MD5sum: 93ee34127939117095551a555c03c72d
+SHA1: 670ae9b6a0de0207aea9445b52fb842a3d0b1e21
+SHA256: 2ea6fa7047f67971a2a4ee1031259282681f1ca92560f12b581efb845d10b5af
+Section: System
+Description: Fixes LaunchDaemons not loading with the EtasonJB and UntetherHomeDepot untethers.
+Author: Trevor Schmitt <tdogg9401@gmail.com>
+Name: daemonfixup
+
