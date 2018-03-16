@@ -27,3 +27,17 @@ Description: Fixes LaunchDaemons not loading with the EtasonJB and UntetherHomeD
 Author: Trevor Schmitt <tdogg9401@gmail.com>
 Name: daemonfixup
 
+Package: ml.tdogg9401.daemonfixup
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Trevor Schmitt <tdogg9401@gmail.com>
+Filename: ./debs/ml.tdogg9401.daemonfixup_2.0_iphoneos-arm.deb
+Size: 1316
+MD5sum: 7f3a90c7695d5e3be4e318393d51acb8
+SHA1: bee3d0bdcc99719dc2e37a7eff5bfa97d9fccf31
+SHA256: bd2a95e716a248938cf0a72164c95d5fc7b66f23033a72521e97dd7cb517eb6c
+Section: System
+Description: Fixes LaunchDaemons not loading with the EtasonJB and UntetherHomeDepot untethers.
+Author: Trevor Schmitt <tdogg9401@gmail.com>
+Name: daemonfixup
+
