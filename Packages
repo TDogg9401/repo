@@ -11,33 +11,18 @@ Section: Networking
 Description: lightweight package for SSH functionality
 Name: dropbear
 
-Package: ml.tdogg9401.daemonfixup
-Version: 1.0
+Package: ml.tdogg9401.infigo
+Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Trevor Schmitt <tdogg9401@gmail.com>
-Installed-Size: 268
-Depends: mobilesubstrate
-Filename: ./debs/ml.tdogg9401.daemonfixup_1.0_iphoneos-arm.deb
-Size: 4314
-MD5sum: 93ee34127939117095551a555c03c72d
-SHA1: 670ae9b6a0de0207aea9445b52fb842a3d0b1e21
-SHA256: 2ea6fa7047f67971a2a4ee1031259282681f1ca92560f12b581efb845d10b5af
+Conflicts: ml.tdogg9401.daemonfixup
+Filename: ./debs/ml.tdogg9401.infigo_2.0.1_iphoneos-arm.deb
+Size: 1328
+MD5sum: 64f62900226de7e33bd87bd4f94b12c4
+SHA1: ec564aba37444a035259947a922afd2253d0b24f
+SHA256: 258e46411a6441b445bc79f5113863c1d72cb4d9a14052f8c9c0b40a67ccb998
 Section: System
 Description: Fixes LaunchDaemons not loading with the EtasonJB and UntetherHomeDepot untethers.
 Author: Trevor Schmitt <tdogg9401@gmail.com>
-Name: daemonfixup
-
-Package: ml.tdogg9401.daemonfixup
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Trevor Schmitt <tdogg9401@gmail.com>
-Filename: ./debs/ml.tdogg9401.daemonfixup_2.0_iphoneos-arm.deb
-Size: 1316
-MD5sum: 7f3a90c7695d5e3be4e318393d51acb8
-SHA1: bee3d0bdcc99719dc2e37a7eff5bfa97d9fccf31
-SHA256: bd2a95e716a248938cf0a72164c95d5fc7b66f23033a72521e97dd7cb517eb6c
-Section: System
-Description: Fixes LaunchDaemons not loading with the EtasonJB and UntetherHomeDepot untethers.
-Author: Trevor Schmitt <tdogg9401@gmail.com>
-Name: daemonfixup
+Name: Infigo
 
